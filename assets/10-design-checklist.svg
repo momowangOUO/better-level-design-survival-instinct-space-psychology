@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">关卡生存本能检查表</title>
+  <desc id="desc">把空间尺度、展望庇护、光影、材质、高度和玩家能力转化为关卡设计检查项。</desc>
+  <style>
+    .bg{fill:#f8fafc}
+    .title{font:700 34px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#0f172a}
+    .head{fill:#1e293b}
+    .rowA{fill:#fff}
+    .rowB{fill:#f1f5f9}
+    .grid{stroke:#cbd5e1;stroke-width:2}
+    .th{font:700 19px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#fff}
+    .td{font:500 17px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#334155}
+    .strong{font:700 18px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#0f172a}
+  </style>
+  <rect class="bg" width="1200" height="700"/>
+  <text class="title" x="48" y="62">图 11 从文章观点落到关卡审核：五个空间旋钮</text>
+  <rect class="head" x="70" y="110" width="1060" height="58" rx="14"/>
+  <text class="th" x="105" y="146">旋钮</text>
+  <text class="th" x="300" y="146">玩家感受</text>
+  <text class="th" x="565" y="146">可调设计手段</text>
+  <text class="th" x="890" y="146">验收问题</text>
+  <g>
+    <rect class="rowA grid" x="70" y="168" width="1060" height="86"/>
+    <text class="strong" x="105" y="202">空间尺度</text>
+    <text class="td" x="300" y="202">压迫 / 掌控 / 暴露</text>
+    <text class="td" x="565" y="202">走廊宽度、房间体量、移动能力边界</text>
+    <text class="td" x="890" y="202">玩家知道自己为何紧张吗？</text>
+    <rect class="rowB grid" x="70" y="254" width="1060" height="86"/>
+    <text class="strong" x="105" y="288">展望庇护</text>
+    <text class="td" x="300" y="288">看见危险，但有计划</text>
+    <text class="td" x="565" y="288">掩体、洞口、挑台、次级庇护</text>
+    <text class="td" x="890" y="288">离开安全点前能看见下一点吗？</text>
+    <rect class="rowA grid" x="70" y="340" width="1060" height="86"/>
+    <text class="strong" x="105" y="374">光影</text>
+    <text class="td" x="300" y="374">未知 / 神秘 / 怀疑</text>
+    <text class="td" x="565" y="374">阴影缝隙、弥散光、雾、声源</text>
+    <text class="td" x="890" y="374">黑暗是信息，还是纯粹看不见？</text>
+    <rect class="rowB grid" x="70" y="426" width="1060" height="86"/>
+    <text class="strong" x="105" y="460">材质</text>
+    <text class="td" x="300" y="460">安全感逐步剥离</text>
+    <text class="td" x="565" y="460">木、水、植被、石、铁、火、污染</text>
+    <text class="td" x="890" y="460">危险升级是否能被环境读出？</text>
+    <rect class="rowA grid" x="70" y="512" width="1060" height="86"/>
+    <text class="strong" x="105" y="546">高度</text>
+    <text class="td" x="300" y="546">安全俯视 / 眩晕暴露</text>
+    <text class="td" x="565" y="546">栏杆、墙体、反制路线、深渊线条</text>
+    <text class="td" x="890" y="546">高点是奖励，还是无解优势？</text>
+  </g>
+  <text class="td" x="90" y="650">使用方法：灰盒阶段逐项标注，试玩阶段用死亡位置、停留时间和玩家口述验证这些空间旋钮是否被正确读懂。</text>
+</svg>

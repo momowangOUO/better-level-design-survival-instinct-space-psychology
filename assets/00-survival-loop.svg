@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img" aria-labelledby="title desc">
+  <title id="title">生存本能到关卡体验的转译链路</title>
+  <desc id="desc">图解人类生存需求如何转化为游戏关卡里的危险感、空间判断、行动选择与愉悦记忆。</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2563eb"/>
+    </marker>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop offset="0" stop-color="#eff6ff"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+    <style>
+      .bg{fill:#f8fafc}
+      .card{fill:url(#panel);stroke:#94a3b8;stroke-width:2;rx:18}
+      .core{fill:#1e293b}
+      .title{font:700 34px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#0f172a}
+      .label{font:700 24px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#0f172a}
+      .small{font:500 17px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#475569}
+      .coreText{font:700 28px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#fff}
+      .coreSub{font:500 18px "Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#cbd5e1}
+      .line{fill:none;stroke:#2563eb;stroke-width:4;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect class="bg" width="1100" height="620"/>
+  <text class="title" x="48" y="62">图 1 生存本能不是背景知识，而是关卡体验的底层输入</text>
+  <rect class="card" x="70" y="115" width="250" height="110"/>
+  <text class="label" x="104" y="158">生理与安全需求</text>
+  <text class="small" x="104" y="190">食物、水、庇护、逃生</text>
+  <rect class="card" x="425" y="115" width="250" height="110"/>
+  <text class="label" x="468" y="158">危险感知</text>
+  <text class="small" x="468" y="190">暴露、黑暗、高差、未知</text>
+  <rect class="card" x="780" y="115" width="250" height="110"/>
+  <text class="label" x="823" y="158">空间判断</text>
+  <text class="small" x="823" y="190">哪里能看、躲、跑、反击</text>
+  <rect class="card" x="780" y="390" width="250" height="110"/>
+  <text class="label" x="823" y="433">行动选择</text>
+  <text class="small" x="823" y="465">推进、绕行、潜伏、撤退</text>
+  <rect class="card" x="425" y="390" width="250" height="110"/>
+  <text class="label" x="468" y="433">克服危险</text>
+  <text class="small" x="468" y="465">战斗胜利、拿到奖励、活着离开</text>
+  <rect class="card" x="70" y="390" width="250" height="110"/>
+  <text class="label" x="104" y="433">愉悦记忆</text>
+  <text class="small" x="104" y="465">紧张被释放，路线被学习</text>
+  <circle class="core" cx="550" cy="305" r="92"/>
+  <text class="coreText" text-anchor="middle" x="550" y="296">关卡</text>
+  <text class="coreSub" text-anchor="middle" x="550" y="328">制造可战胜的危险</text>
+  <path class="line" d="M320 170 H412"/>
+  <path class="line" d="M675 170 H767"/>
+  <path class="line" d="M905 225 V377"/>
+  <path class="line" d="M780 445 H688"/>
+  <path class="line" d="M425 445 H333"/>
+  <path class="line" d="M195 390 V247"/>
+  <text class="small" x="98" y="555">设计含义：关卡不只摆放模型和敌人，而是组织玩家对危险、安全和能力边界的判断。</text>
+</svg>
