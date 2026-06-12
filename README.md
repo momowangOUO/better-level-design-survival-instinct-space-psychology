@@ -1,4 +1,7 @@
 # 设计更好的关卡：人类生存本能与空间心理
+> 语言 / Language：中文 | [English](README.en.md)
+>
+> GitHub 阅读说明：本仓库保留完整中文版报告、完整英文版报告和全部本地图片资产；`过程记录.md` 仅作本地工作日志，已按要求排除，不会上传到 GitHub。
 
 基于 Christopher W. Totten 在 Game Developer 发表的文章 [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) 改写整理。
 

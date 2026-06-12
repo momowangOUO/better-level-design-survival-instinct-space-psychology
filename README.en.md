@@ -1,4 +1,7 @@
 # Designing Better Levels: Human Survival Instinct and Spatial Psychology
+> Language / 语言：[中文](README.md) | English
+>
+> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
 
 Based on the article [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) published by Christopher W. Totten in Game Developer.
 
