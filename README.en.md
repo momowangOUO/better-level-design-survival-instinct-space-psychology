@@ -5,9 +5,16 @@
 >
 > For: level designers, environmental narrative designers, indie developers, spatial-design readers, and game-design students.
 >
-> Why star it: this visual essay connects survival instinct, architectural psychology, and level design with 11 local diagrams you can revisit during blockout review.
+> Reading value: this visual essay connects survival instinct, architectural psychology, and level design with 11 local diagrams you can revisit during blockout review.
 >
-> Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
+> Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
+
+## Key Takeaways
+
+- Level spaces trigger survival instincts: sightlines, refuge, scale, material, shadow, and height all change how safe or willing to act a player feels.
+- The "protagonist weakness problem" is not solved only by stats. Space can give players visible exits, fallback positions, and chances to build control.
+- Prospect and refuge need each other. Pure visibility can feel exposed; pure safety removes movement pressure.
+- This is a design rewrite based on Totten's article, not a claim that every spatial reading here is proven by psychology experiments.
 
 Based on the article [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) published by Christopher W. Totten in Game Developer.
 

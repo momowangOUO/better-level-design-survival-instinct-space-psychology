@@ -5,9 +5,16 @@
 >
 > 适合谁：关卡设计师、环境叙事设计师、独立游戏开发者、建筑/空间设计爱好者、游戏设计学生。
 >
-> 为什么值得 Star：这是生存本能、建筑心理和关卡设计之间的桥梁，配有 11 张本地重制图，适合反复查“玩家为什么会被一个空间牵动”。
+> 阅读价值：这是生存本能、建筑心理和关卡设计之间的桥梁，配有 11 张本地重制图，适合反复查“玩家为什么会被一个空间牵动”。
 >
-> 想分享这份资料：可直接使用 [SHARE.md](SHARE.md) 里的中英文文案。
+> 阅读入口：此页为完整报告；轻量索引见 [INDEX.md](INDEX.md)，中文正文源文件见 [报告.md](报告.md)。
+
+## 关键结论
+
+- 关卡空间会调动玩家的生存直觉：视野、庇护、尺度、材质、阴影和高度都会改变安全感与行动欲望。
+- “主角弱势问题”不只靠数值补偿解决，空间也可以给玩家可见出口、回撤点和逐步掌控的机会。
+- 展望与庇护需要同时存在；只给开阔视野会让玩家暴露，只给安全角落又会让行动失去张力。
+- 本文是基于 Totten 原文的设计改写，不把空间心理判断写成未经验证的心理学实验结论。
 
 基于 Christopher W. Totten 在 Game Developer 发表的文章 [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) 改写整理。
 
