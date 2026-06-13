@@ -1,15 +1,11 @@
 # Better Levels Through Survival Instinct: Spatial Psychology For Game Designers
 > Language / 语言：[中文](README.md) | English
 >
-> GitHub Reading Notes: this repository keeps the complete Chinese report, the complete English report, and all local image assets. `过程记录.md` is a local work log only and is intentionally excluded from GitHub.
-
 > One-line pitch: translate why spaces feel safe, tense, tempting, or dangerous into a practical checklist for level designers.
 >
 > For: level designers, environmental narrative designers, indie developers, spatial-design readers, and game-design students.
 >
 > Why star it: this visual essay connects survival instinct, architectural psychology, and level design with 11 local diagrams you can revisit during blockout review.
->
-> Related repos: [Gameplay Matrix Toolkit](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [Delta Force Map Study](https://github.com/momowangOUO/delta-force-map-system-reverse-study) / [Extraction Shooter Whitepaper](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper) / [Eternal Return Lumia Island](https://github.com/momowangOUO/eternal-return-lumia-island-level-design-study)
 >
 > Want to share it: use the ready-to-copy posts in [SHARE.md](SHARE.md).
 
