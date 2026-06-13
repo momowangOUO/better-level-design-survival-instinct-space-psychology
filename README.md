@@ -1,7 +1,17 @@
-# 设计更好的关卡：人类生存本能与空间心理
+# Better Levels Through Survival Instinct：人类本能、空间心理与关卡设计
 > 语言 / Language：中文 | [English](README.en.md)
 >
 > GitHub 阅读说明：本仓库保留完整中文版报告、完整英文版报告和全部本地图片资产；`过程记录.md` 仅作本地工作日志，已按要求排除，不会上传到 GitHub。
+
+> 一句话：把“为什么某些空间天然紧张、安心、诱人或危险”翻译成关卡设计师能直接使用的检查表。
+>
+> 适合谁：关卡设计师、环境叙事设计师、独立游戏开发者、建筑/空间设计爱好者、游戏设计学生。
+>
+> 为什么值得 Star：这是生存本能、建筑心理和关卡设计之间的桥梁，配有 11 张本地重制图，适合反复查“玩家为什么会被一个空间牵动”。
+>
+> 同系列： [Gameplay Matrix 工具包](https://github.com/momowangOUO/level-design-gameplay-matrix-spatial-iteration) / [三角洲行动地图拆解](https://github.com/momowangOUO/delta-force-map-system-reverse-study) / [搜打撤白皮书](https://github.com/momowangOUO/extraction-shooter-map-level-design-whitepaper) / [Eternal Return Lumia Island](https://github.com/momowangOUO/eternal-return-lumia-island-level-design-study)
+>
+> 想分享这份资料：可直接使用 [SHARE.md](SHARE.md) 里的中英文文案。
 
 基于 Christopher W. Totten 在 Game Developer 发表的文章 [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) 改写整理。
 
