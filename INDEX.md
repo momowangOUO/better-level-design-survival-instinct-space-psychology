@@ -2,6 +2,12 @@
 
 本仓库只收录一篇完整报告。README 是面向 GitHub 阅读的完整版本；`报告.md` 保留同一份中文正文，方便下载、引用或二次整理。
 
+## 元数据
+
+- 作者：魔魔王
+- 版本：v1.0
+- 发布日期：2026-06-13
+
 | 报告 | 一句话说明 | 主题 | 适合读者 | 更新时间 | 阅读入口 |
 |---|---|---|---|---|---|
 | Better Levels Through Survival Instinct：人类本能、空间心理与关卡设计 | 把生存本能、空间心理和关卡审核问题翻译成设计师能直接使用的判断清单。 | 展望与庇护、尺度、材质、阴影、高度、空间心理 | 关卡设计师、环境叙事设计师、独立开发者、游戏设计学生 | 2026-06-13 | [README.md](README.md) / [报告.md](报告.md) / [English](README.en.md) |
@@ -17,13 +23,13 @@
 
 ## 如何引用
 
-建议引用格式：`Better Levels Through Survival Instinct：人类本能、空间心理与关卡设计，GitHub 仓库，访问日期：YYYY-MM-DD。`
+建议引用格式：`魔魔王. Better Levels Through Survival Instinct：人类本能、空间心理与关卡设计. v1.0. GitHub 仓库，2026-06-13. 访问日期：YYYY-MM-DD。`
 
-正式写作时请同时引用原文：Christopher W. Totten, `Designing Better Levels Through Human Survival Instincts`, Game Developer。
+正式写作时请同时引用原文：Christopher W. Totten, `Designing Better Levels Through Human Survival Instincts`, Game Developer, 2011-06-21。
 
-TODO：如需正式引用，请维护者补充本仓库作者署名、版本号和发布日期。
+## 复核状态
 
-## 仍需人工确认
-
+- 已确认：作者、版本、发布日期和引用格式已按维护者口径补齐。
+- 已复核：原文作者为 Christopher W. Totten，发布于 Game Developer，日期为 2011-06-21。
 - 文中的心理学判断是设计转译，不应替代玩家研究、可用性测试或项目内数据。
-- 若用于课程材料，建议补充原文发表日期和访问日期。
+- 若用于课程材料，建议保留本仓库访问日期，并同时引用原文链接。

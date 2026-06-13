@@ -2,6 +2,12 @@
 
 This repository contains one complete report. The README is the full GitHub-reading edition; `报告.md` keeps the same Chinese source for reuse, citation, or local reading.
 
+## Metadata
+
+- Author: 魔魔王
+- Version: v1.0
+- Publication date: 2026-06-13
+
 | Report | One-line description | Topics | Best for | Updated | Read |
 |---|---|---|---|---|---|
 | Better Levels Through Survival Instinct: Spatial Psychology For Game Designers | Translates survival instinct and spatial psychology into level-design review questions. | Prospect and refuge, scale, material, shadow, height, spatial psychology | Level designers, environmental narrative designers, indie developers, game-design students | 2026-06-13 | [README.en.md](README.en.md) / [中文](README.md) |
@@ -17,13 +23,13 @@ This report is a Chinese professional rewrite based on Christopher W. Totten's p
 
 ## How To Cite
 
-Suggested citation: `Better Levels Through Survival Instinct: Spatial Psychology For Game Designers, GitHub repository, accessed YYYY-MM-DD.`
+Suggested citation: `魔魔王. Better Levels Through Survival Instinct: Spatial Psychology For Game Designers. Version 1.0. GitHub repository, 2026-06-13. Accessed YYYY-MM-DD.`
 
-For formal writing, also cite the source article: Christopher W. Totten, `Designing Better Levels Through Human Survival Instincts`, Game Developer.
+For formal writing, also cite the source article: Christopher W. Totten, `Designing Better Levels Through Human Survival Instincts`, Game Developer, 2011-06-21.
 
-TODO: add maintainer-approved author name, version number, and publication date for this repository.
+## Review Status
 
-## Needs Human Confirmation
-
+- Confirmed: author, version, publication date, and citation format have been filled in.
+- Reviewed: the source article is by Christopher W. Totten, published by Game Developer on 2011-06-21.
 - The psychology claims are design translations; they should not replace player research, usability testing, or project data.
-- Course material should include the original article's publication date and an access date.
+- Course material should keep an access date for this repository and cite the source article link.

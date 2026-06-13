@@ -7,6 +7,8 @@
 >
 > Reading value: this visual essay connects survival instinct, architectural psychology, and level design with 11 local diagrams you can revisit during blockout review.
 >
+> Author: 魔魔王; version: v1.0; publication date: 2026-06-13.
+>
 > Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
 
 ## Key Takeaways
