@@ -147,7 +147,11 @@ Boss rooms and high-value areas shouldn’t just be bigger. They should change t
 
 The outer low-risk areas should also not just fill space. They can provide recovery, intelligence, low-value gains, detours, and secondary entry opportunities. Without the protection of the outer circle, players are left with two choices: rush for hot spots or give up.
 
-## image remapping
+## Sources And Image Notes
+
+The figures help readers translate "survival instinct" into concrete level-design questions. They are not replicas of a specific game scene; they compress spatial scale, prospect and refuge, material, light, shadow, and height into local diagrams that are easier to read. Use this section to trace each figure back to the idea it supports and to find further reading.
+
+### Figure Reading Notes
 
 | Reprint of this article | Correspond to the original intention |
 | --- | --- |
@@ -163,7 +167,7 @@ The outer low-risk areas should also not just fill space. They can provide recov
 | Figure 10 Height | Corresponds to the original text’s summary of heights, outlook, shelter and risk of falling |
 | Figure 11 Level review form | Convert full-text insights into design checklists usable in gray box and playtest phases |
 
-## Further reading
+### Further Reading
 
 The original author recommended a set of interdisciplinary books at the end of the article, which are suitable for level designers to continue to take supplementary courses:
 
