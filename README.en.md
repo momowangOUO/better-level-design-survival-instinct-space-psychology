@@ -1,22 +1,26 @@
 # Better Levels Through Survival Instinct: Spatial Psychology For Game Designers
 > Language / 语言：[中文](README.md) | English
 >
-> One-line pitch: translate why spaces feel safe, tense, tempting, or dangerous into a practical checklist for level designers.
+> Players do not simply read space. They feel whether their body can survive it.
 >
-> For: level designers, environmental narrative designers, indie developers, spatial-design readers, and game-design students.
->
-> Reading value: this visual essay connects survival instinct, architectural psychology, and level design with 11 local diagrams you can revisit during blockout review.
+> This rewrite starts from Totten's survival-instinct article and turns prospect, refuge, scale, shadow, material, and height into level-review questions: where players move, where they freeze, and where they dare to risk more.
 >
 > Author: 魔魔王; version: v1.0; publication date: 2026-06-13.
 >
-> Reading entry: this page is the complete English edition; use [INDEX.en.md](INDEX.en.md) for the compact index.
 
-## Key Takeaways
+## The Short Version
 
-- Level spaces trigger survival instincts: sightlines, refuge, scale, material, shadow, and height all change how safe or willing to act a player feels.
+- Level spaces touch survival instincts before players consciously parse them: sightlines, refuge, scale, material, shadow, and height all change how safe or willing to act a player feels.
 - The "protagonist weakness problem" is not solved only by stats. Space can give players visible exits, fallback positions, and chances to build control.
-- Prospect and refuge need each other. Pure visibility can feel exposed; pure safety removes movement pressure.
+- Prospect and refuge need each other. Pure visibility can feel exposed; pure safety drains movement pressure.
 - This is a design rewrite based on Totten's article, not a claim that every spatial reading here is proven by psychology experiments.
+
+## How To Read This Report
+
+- Complete report: keep reading this page.
+- Compact index: [INDEX.en.md](INDEX.en.md).
+- Chinese edition: [README.md](README.md).
+- Evidence boundary: image notes, the source article, and further reading are collected near the end.
 
 Based on the article [Designing Better Levels Through Human Survival Instincts](https://www.gamedeveloper.com/design/designing-better-levels-through-human-survival-instincts) published by Christopher W. Totten in Game Developer.
 

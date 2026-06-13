@@ -16,7 +16,7 @@ This repository contains one complete report. The README is the full GitHub-read
 
 This report is a Chinese professional rewrite based on Christopher W. Totten's public article, with local remade diagrams explaining how spatial psychology can inform level design. It is not a line-by-line translation or a psychology literature review.
 
-## Reusable Lines
+## Quotable Lines
 
 - Level designers are not only arranging space; they are arranging safety, fear, control, and curiosity.
 - Prospect and refuge need each other: pure visibility can feel exposed, while pure safety removes movement pressure.
