@@ -30,7 +30,7 @@ This article is not a word-for-word translation, but a professionally rewritten 
 
 ## Introduction: Why do levels affect instincts?
 
-A great level is more than just a nice-looking space, or just a combination of enemies, props, and doors. It is more like a "survival tension machine": players enter a dangerous but understandable environment, and after seeing risks, finding shelter, judging routes, and overcoming obstacles, they gain the satisfaction of arriving safely, defeating powerful enemies, or receiving rewards.
+A great level is more than a nice-looking space or a combination of enemies, props, and doors. It should put players in a dangerous but understandable environment: they see risk, find shelter, judge a route, overcome an obstacle, and then feel the satisfaction of arriving safely, defeating a powerful enemy, or receiving a reward.
 
 The reason why this set of experiences is stable and effective is that it borrows from a very ancient psychological mechanism of human beings. We naturally focus on food, water, open views, retreating positions, uncertainty in the dark, heights beneath our feet, and the safety or danger conveyed by walls and surfaces. Game levels can translate these instincts into gameplay: where is worth going, where you may die, where you can hide, where you can see, where you need courage to cross.
 
